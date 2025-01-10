@@ -1,6 +1,6 @@
-# Grafana InfluxQL ¿¹Á¦
+# Grafana InfluxQL ì˜ˆì œ
 
-## Tag »ç¿ëÇÏ±â
+## Tag ì‚¬ìš©í•˜ê¸°
 
 > Query
 
