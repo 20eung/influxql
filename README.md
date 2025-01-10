@@ -18,4 +18,6 @@ GROUP BY "hostname", "ifName"
 $tag_hostname : $tag_ifName
 ```
 
+> Sample Graph
+
 ![alt text](img/tag_example.png)
