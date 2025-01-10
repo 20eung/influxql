@@ -17,3 +17,5 @@ GROUP BY "hostname", "ifName"
 ```
 $tag_hostname : $tag_ifName
 ```
+
+![alt text](img/tag_example.png)
